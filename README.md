@@ -6,7 +6,7 @@
     <title>Your Webpage Title</title>
     <style>
         body {
-            background-image: url('https://img.freepik.com/free-vector/hand-drawn-world-emoji-day-background-with-emoticons_23-2149418959.jpg?w=740&t=st=1709503626~exp=1709504226~hmac=212447c1a2b263e8334232bb5d3069ab3966064d0e4aecab2b9ae516a25c4a63');
+            background-image: url('https://img.freepik.com/free-photo/dark-geometric-background-with-copy-space_24972-1816.jpg?w=740&t=st=1709516213~exp=1709516813~hmac=aaf4000cae1a71fa50f038b56396e5619104cb2e8826c87f7563d3ddc0748828');
             background-size: cover;
         }
         a {
